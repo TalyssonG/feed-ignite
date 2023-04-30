@@ -19,11 +19,11 @@ export function App() {
      <main>
        <Post
           author="Diego Fernandes"
-          content="Lorem ipson dolor"
+          content="Sou programador a 5 anos e fiz um post sobre"
       />
        <Post
           author="Talysson Gadêlha"
-          content="Um novo post muito legal"
+          content="Um novo post muito legal sobre design"
       />
      </main>
      </div>
